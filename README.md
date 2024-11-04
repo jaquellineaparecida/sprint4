@@ -1,4 +1,4 @@
-Caio Rocha RM99617
+Grupo: URSA
 
 Sistema de Recomendação de Livros
 Descrição do Projeto
