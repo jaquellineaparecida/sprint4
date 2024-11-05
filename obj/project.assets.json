@@ -8932,32 +8932,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Caio Rocha\\.nuget\\packages\\": {},
-    "D:\\Microsoft Visual Studio\\NuGetPackages": {}
+    "C:\\Users\\jaquellineap\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\meusprojetosVS\\SistemaRecomendaLivro\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\jaquellineap\\sprint4\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\meusprojetosVS\\SistemaRecomendaLivro\\WebApp\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\Caio Rocha\\.nuget\\packages\\",
-      "outputPath": "D:\\meusprojetosVS\\SistemaRecomendaLivro\\WebApp\\WebApp\\obj\\",
+      "projectPath": "C:\\Users\\jaquellineap\\sprint4\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\jaquellineap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jaquellineap\\sprint4\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Microsoft Visual Studio\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Caio Rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jaquellineap\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8970,11 +8962,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -9041,7 +9028,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
